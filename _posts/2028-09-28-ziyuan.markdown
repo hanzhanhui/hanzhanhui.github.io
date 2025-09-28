@@ -12,6 +12,6 @@ tags:
 
 <div>
     <blockquote>你想要下载的资源……
-        <br>[http://](http://03.szz.cblog.eu/)。
+        <br>http://03.szz.cblog.eu/
     <br>
 </div>
